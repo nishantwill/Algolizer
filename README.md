@@ -1,4 +1,4 @@
-#Algo Path Visualizer
+#Algolizer
 
 Algorithms :
 
